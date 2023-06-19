@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">apphw02</string>
+    <string name="earthquake_prompt">選擇地震資訊筆數</string>
+    <string-array name="earthquake_options">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+    </string-array>
+</resources>
